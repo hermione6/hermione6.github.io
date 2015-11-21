@@ -117,12 +117,12 @@ a {
   margin-bottom: 1em; }
 .main-content .comment {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, KaiTi, STKaiti, "Microsoft YaHei", "微软雅黑", STXihei, "华文细黑";
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   color: #383e41;
 }
 .main-content code {
   padding: 2px 4px;
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace, "Microsoft YaHei", "微软雅黑", STXihei, "华文细黑";
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
   background-color: #f3f6fa;
